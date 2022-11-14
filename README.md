@@ -3,9 +3,11 @@ Projects completed following Paul Hudson's 100 Days of SwiftUI via hackingwithsw
 
 GuessTheFlag:
   A multi-round guessing game in which the user is presnted with a country name and three flags, and tasked with guessing the correct flag.
-  <img width="564" alt="Screenshot 2022-11-14 at 12 15 02 AM" src="https://user-images.githubusercontent.com/110639779/201581097-5f907fc9-781b-4bcd-a2f4-33cb92418bcd.png">
-<img width="564" alt="Screenshot 2022-11-14 at 12 15 15 AM" src="https://user-images.githubusercontent.com/110639779/201581100-bc669570-293e-4290-a8ff-bb9b5db9f17e.png">
-<img width="564" alt="Screenshot 2022-11-14 at 12 16 27 AM" src="https://user-images.githubusercontent.com/110639779/201581104-a6690e4c-1a35-4be4-991c-59d436fc2121.png">
+  
+  
+  <img width="150" alt="Screenshot 2022-11-14 at 12 15 02 AM" src="https://user-images.githubusercontent.com/110639779/201581097-5f907fc9-781b-4bcd-a2f4-33cb92418bcd.png">
+<img width="150" alt="Screenshot 2022-11-14 at 12 15 15 AM" src="https://user-images.githubusercontent.com/110639779/201581100-bc669570-293e-4290-a8ff-bb9b5db9f17e.png">
+<img width="150" alt="Screenshot 2022-11-14 at 12 16 27 AM" src="https://user-images.githubusercontent.com/110639779/201581104-a6690e4c-1a35-4be4-991c-59d436fc2121.png">
   
   
 WordScramble:
