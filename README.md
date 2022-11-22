@@ -1,6 +1,8 @@
 # 100DaysofSwiftUI
 Projects completed following Paul Hudson's 100 Days of SwiftUI via hackingwithswift.com
 
+<url>https://www.hackingwithswift.com/100/swiftui</url>
+
 <b>HighRollers:</b>
 
   An app for rolling dice. User can select number of dice to roll, and number of sides on each, both from preset ranges. Previous roll results are stored for the user to reference.
