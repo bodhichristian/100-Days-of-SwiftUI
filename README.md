@@ -1,7 +1,7 @@
 # 100DaysofSwiftUI
 Projects completed following Paul Hudson's 100 Days of SwiftUI via hackingwithswift.com
 
-HighRollers:
+<b>HighRollers:</b>
 
   An app for rolling dice. User can select number of dice to roll, and number of sides on each, both from preset ranges. Previous roll results are stored for the user to reference.
   
@@ -45,11 +45,11 @@ WordScramble:
   
 <img width="200" alt="Screenshot 2022-11-14 at 12 24 16 AM" src="https://user-images.githubusercontent.com/110639779/201581945-2323eae3-87ab-4597-8500-6ccbecdc30fc.png"><img width="200" alt="Screenshot 2022-11-14 at 12 24 25 AM" src="https://user-images.githubusercontent.com/110639779/201581954-a9684dc5-be47-41c8-b294-b0b3ec91c105.png"><img width="200" alt="Screenshot 2022-11-14 at 12 24 37 AM" src="https://user-images.githubusercontent.com/110639779/201581959-a9ee0f16-6d77-4234-9c53-b31813bc5a3f.png"><img width="200" alt="Screenshot 2022-11-14 at 12 24 57 AM" src="https://user-images.githubusercontent.com/110639779/201581961-8e2ea684-e81f-4dd4-9351-0d032e82a23b.png">
 
-Rock, Paper, Scissors
-  With a twist! 10 rounds of rock, paper, scissors where the user is prompted to either win or lose at each round.
+Rock, Paper, Scissors:
+  RPS with a twist! 10 rounds of rock, paper, scissors where the user is prompted to either win or lose at each round.
   
   
-<img width="200" alt="Screenshot 2022-11-14 at 12 51 44 AM" src="https://user-images.githubusercontent.com/110639779/201585554-8e7a59cb-5f79-4edf-b5df-fc2d62ee531a.png"><img width="200" alt="Screenshot 2022-11-14 at 12 52 23 AM" src="https://user-images.githubusercontent.com/110639779/201585541-31ec4c47-43dc-4b21-8884-02cf4b799b4c.png"><img width="200" alt="Screenshot 2022-11-14 at 12 52 10 AM" src="https://user-images.githubusercontent.com/110639779/201585551-3a752b82-3bb8-4b87-a0fd-b4ab2c427cb7.png">
+<img width="200" alt="Screenshot 2022-11-14 at 12 51 44 AM" src="https://user-images.githubusercontent.com/110639779/201585554-8e7a59cb-5f79-4edf-b5df-fc2d62ee531a.png"><img width="200" alt="Screenshot 2022-11-14 at 12 52 10 AM" src="https://user-images.githubusercontent.com/110639779/201585551-3a752b82-3bb8-4b87-a0fd-b4ab2c427cb7.png"><img width="200" alt="Screenshot 2022-11-14 at 12 52 23 AM" src="https://user-images.githubusercontent.com/110639779/201585541-31ec4c47-43dc-4b21-8884-02cf4b799b4c.png">
 
 
   
