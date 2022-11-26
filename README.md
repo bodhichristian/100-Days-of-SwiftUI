@@ -3,6 +3,12 @@ Projects completed following Paul Hudson's 100 Days of SwiftUI via hackingwithsw
 
 <url>https://www.hackingwithswift.com/100/swiftui</url>
 
+<b>SnowSeekers:</b>
+  An app for viewing a sample set of ski resorts from around the world. User may explore rich information and 'favorite' any location of their choosing.
+  
+<img width="1763" alt="Screenshot 2022-11-26 at 5 37 39 PM" src="https://user-images.githubusercontent.com/110639779/204111419-73892c42-25f8-48dd-b728-b154b13ac340.png">
+  
+
 <b>HighRollers:</b>
 
   An app for rolling dice. User can select number of dice to roll, and number of sides on each, both from preset ranges. Previous roll results are stored for the user to reference.
