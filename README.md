@@ -1,4 +1,4 @@
-# 100DaysofSwiftUI
+# 100 Days of SwiftUI
 Projects completed following Paul Hudson's 100 Days of SwiftUI via hackingwithswift.com
 
 <url>https://www.hackingwithswift.com/100/swiftui</url>
