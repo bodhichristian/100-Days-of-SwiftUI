@@ -13,8 +13,7 @@ Projects completed following Paul Hudson's 100 Days of SwiftUI via hackingwithsw
 
   An app for rolling dice. User can select number of dice to roll, and number of sides on each, both from preset ranges. Previous roll results are stored for the user to reference.
   
-<img width="200" alt="Screenshot 2022-11-21 at 11 52 47 AM" src="https://user-images.githubusercontent.com/110639779/203114238-08f9bc26-423d-401a-a6ea-b10ec53bcab0.png"><img width="200" alt="Screenshot 2022-11-21 at 11 53 13 AM" src="https://user-images.githubusercontent.com/110639779/203114282-0ddd8a41-2468-436a-80cc-ff65caf0d479.png"><img width="200" alt="Screenshot 2022-11-21 at 11 53 58 AM" src="https://user-images.githubusercontent.com/110639779/203114356-53d62e44-f981-454b-93a6-b1ff966fab92.png"><img width="200" alt="Screenshot 2022-11-21 at 11 54 03 AM" src="https://user-images.githubusercontent.com/110639779/203114391-561265ca-959e-4cfa-aee8-8ebc1ab87ea9.png">
-
+  ![High Rolllers Showcase 001](https://user-images.githubusercontent.com/110639779/210297144-ce1c033a-e3ad-4ac1-9242-506bfd16f9ab.jpeg)
 
 <b>HotProspects:</b>
 
