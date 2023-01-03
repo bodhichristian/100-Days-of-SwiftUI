@@ -55,8 +55,8 @@ Projects completed following Paul Hudson's 100 Days of SwiftUI via hackingwithsw
 
   A game in which the user is prsented with one of 10,000 eight-letter words, and is tasked with creating words using letters from the prompt word.
   
-  
-<img width="200" alt="Screenshot 2022-11-14 at 12 24 16 AM" src="https://user-images.githubusercontent.com/110639779/201581945-2323eae3-87ab-4597-8500-6ccbecdc30fc.png"><img width="200" alt="Screenshot 2022-11-14 at 12 24 25 AM" src="https://user-images.githubusercontent.com/110639779/201581954-a9684dc5-be47-41c8-b294-b0b3ec91c105.png"><img width="200" alt="Screenshot 2022-11-14 at 12 24 37 AM" src="https://user-images.githubusercontent.com/110639779/201581959-a9ee0f16-6d77-4234-9c53-b31813bc5a3f.png"><img width="200" alt="Screenshot 2022-11-14 at 12 24 57 AM" src="https://user-images.githubusercontent.com/110639779/201581961-8e2ea684-e81f-4dd4-9351-0d032e82a23b.png">
+ ![WordScramble Showcase](https://user-images.githubusercontent.com/110639779/210390618-b0513122-8198-4982-8d84-1aea28a678fc.jpeg)
+
 
 <b>Rock, Paper, Scissors:</b>
 
@@ -69,5 +69,6 @@ Projects completed following Paul Hudson's 100 Days of SwiftUI via hackingwithsw
   
 
 
-  
+ 
+
 
