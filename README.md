@@ -66,6 +66,9 @@ Projects completed following Paul Hudson's 100 Days of SwiftUI via hackingwithsw
   ![RPS+ Showcase 001](https://user-images.githubusercontent.com/110639779/210392037-d4b8e8bd-97c3-42e7-be12-43dcf6e0d1e8.jpeg)
 
 
+<b>Certificate:</b>
+![Hacking with Swift - 100 Days of SwiftUI - Certificate of Merit](https://user-images.githubusercontent.com/110639779/212134616-b65e3986-2b2d-4143-b56b-8915977804a0.jpg)
+
 
 
   
