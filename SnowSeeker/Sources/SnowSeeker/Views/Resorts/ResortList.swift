@@ -32,7 +32,7 @@ struct ResortList: View {
 
 
     var body: some View {
-        NavigationView {
+        NavigationStack {
             List(sortedResorts) { resort in
                 NavigationLink {
                     ResortView(resort: resort)
@@ -68,7 +68,7 @@ struct ResortList: View {
                 Button {
                     showingSortOptions = true
                 } label: {
-                    Label("Change sory order", systemImage: "arrow.up.arrow.down.circle")
+                    Label("Change sort order", systemImage: "arrow.up.arrow.down.circle")
                 }
             }
             .confirmationDialog("Sort order", isPresented: $showingSortOptions) {
@@ -78,8 +78,8 @@ struct ResortList: View {
             }
             .navigationTitle("Resorts")
             .searchable(text: $searchText, prompt: "Search for a resort")
-
-            WelcomeView()
+//
+//            WelcomeView()
         }
         
         .environmentObject(favorites)
